@@ -84,7 +84,8 @@ section{
     display: flex;
     align-items:center;
     padding: 0 10%;
-    background: center/cover url("img/home.avif") no-repeat ;
+    background: center/cover url("./img/home.png") no-repeat ;
+   
 }
 
 .home-content {
